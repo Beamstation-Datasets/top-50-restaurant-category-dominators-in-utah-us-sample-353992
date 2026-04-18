@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Utah, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `353992` |
 | Location | Utah |
 | Category | Restaurants |
-| Full dataset size | 42 records |
-| Free sample size | 3 records (7.14%) |
-| Last export | 2026-04-01T01:02:41.273945+00:00 |
+| Full dataset size | 48 records |
+| Free sample size | 4 records (8.33%) |
+| Last export | 2026-04-15T03:04:15.319076+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-utah-us-sample-353992/releases/download/sample-latest/beamstation_353992_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
