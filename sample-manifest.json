@@ -1,12 +1,12 @@
 {
-  "export_job_id": "63ffd432-657a-4ae2-9ccb-60eed7d9c732",
+  "export_job_id": "fd8f65ea-e149-446c-91f4-f305100788c7",
   "id_short": 353992,
-  "published_at": "2026-04-22T19:36:49Z",
+  "published_at": "2026-04-30T07:19:40Z",
   "repo_name": "top-50-restaurant-category-dominators-in-utah-us-sample-353992",
   "sample_asset_name": "beamstation_353992_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/353992/beamstation_353992_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "f9883815d2397b7c93e589f489b8b1269abae36e8fab43a8befb6f9f23f85160",
-  "sample_size_bytes": 42569,
-  "total_records": 70
+  "sample_records": 5,
+  "sample_sha256": "f6109f21b5c5542d1ebd1a9004729c83775729158c4916bd0b9f4cdfc358101a",
+  "sample_size_bytes": 37315,
+  "total_records": 54
 }
